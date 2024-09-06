@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faresjebril05" alt="faresjebril05" /></a> </p>
 
-- 🔭 I’m currently working on [A Deep fake detector](Not yet)
+- 🔭 I'm currently working to develop my knowledge
 
-- 🌱 I’m currently learning [Python & Machine Learning](No Link)
+- 🌱 I’m currently learning <strong>Python & Machine Learning</strong>
 
 - 👨‍💻 All of my projects are available at [https://github.com/faresjebril05](https://github.com/faresjebril05)
 
