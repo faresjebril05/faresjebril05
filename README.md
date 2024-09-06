@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fares Jebril</h1>
-<h3 align="center">A CyberSecurity student at Amman Arab University & A professional developer :)!</h3>
+<h3 align="center">A CyberSecurity student at Amman Arab University & A Junior Developer :)!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faresjebril05&label=Profile%20views&color=0e75b6&style=flat" alt="faresjebril05" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A Deep fake detector](Not yet)
 
-- 🌱 I’m currently learning [OOP Programming in Java](No Link)
+- 🌱 I’m currently learning [Python & Machine Learning](No Link)
 
 - 👨‍💻 All of my projects are available at [https://github.com/faresjebril05](https://github.com/faresjebril05)
 
