@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working to develop my knowledge
 
-- 🌱 I’m currently learning <strong>Python & Machine Learning</strong>
+- 🌱 I’m currently learning <strong>Ethical Hacking</strong>
 
 - 👨‍💻 All of my projects are available at [https://github.com/faresjebril05](https://github.com/faresjebril05)
 
