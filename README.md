@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faresjebril05](https://github.com/faresjebril05)
 
-- 📄 Know about my experiences [SOON](SOON)
+- 📄 Know about my experiences on [My Website](https://faresjebril.dev)
 
 - ⚡ Fun fact **I started skidding programs :)**
 
